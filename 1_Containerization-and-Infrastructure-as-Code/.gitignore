@@ -1,0 +1,12 @@
+yellow_tripdata_2021-01.csv
+green_tripdata_2019-01.csv
+ny_taxi_postgres_data
+output.csv
+data_pgadmin
+.ipynb_checkpoints
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+
